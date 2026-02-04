@@ -17,8 +17,10 @@
 2. ¿Cuál es el resultado en decimal del número binario 10110?
 
 
-10110 = 1 *2^4 + 0 *2^3 + 1 *2^2 + 1 *2^1 + 0 *2^0 =
+10110 =
+
+ 1 *2^4 + 0 *2^3 + 1 *2^2 + 1 *2^1 + 0 *2^0 =
 
 16+0+4+2+0= 22
 
-* El númweo binario 10110 en decimal es igual a 22
+* El número binario 10110 en decimal es igual a 22
