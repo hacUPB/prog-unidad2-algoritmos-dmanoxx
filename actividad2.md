@@ -97,3 +97,50 @@ Mostar "Total a pagar: $", precio
 Fin
 ```
 
+# Ejercicio 2.3
+
+* El director de una escuela está organizando un viaje de estudios, y requiere determinar cuánto debe cobrar a cada alumno y cuánto debe pagar a la compañía de viajes por el servicio. La forma de cobrar es la siguiente: si son 100 alumnos o más, el costo por cada alumno es de $65.00; de 50 a 99 alumnos, el costo es de $70.00, de 30 a 49, de $95.00, y si son menos de 30, el costo de la renta del autobús es de $4000.00, sin importar el número de alumnos.
+
+
+```
+
+Inicio 
+
+Mostrar "Ingrese la cantidad de alumnos que viajaran"
+
+Leer cantidad 
+    Si cantidad >= 100
+        precio = cantidad * 65.00
+
+    Sino   50<= cantidad <= 99
+        precio = cantidad * $70.00
+
+    Sino   30<= cantidad <= 49
+        precio = cantidad * $90.00 
+
+    Sino   cantidad < 30
+        precio= cantidad * $95.00
+
+    Sino totalpagar < $4000.00
+        precio= totalpagar/cantidad
+
+    Fin Si
+
+    Mostrar " Costo por alumno: $", precio
+    Mostrar "Total a pagar a la compañia:$", totalpagar
+    
+```
+# Ejercicio 2.4
+
+```
+Inicio
+SU = 0
+VA = 0
+Mientras VA != -1
+    Leer VA
+    SU= SU + VA
+    C= C+1
+Fin mientras
+Escribir SU
+Fin 
+```
