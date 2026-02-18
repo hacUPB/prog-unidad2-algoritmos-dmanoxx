@@ -144,5 +144,88 @@ Fin mientras
 Escribir SU
 Fin 
 ```
-# Ejercicio 3
+# Ejercicio Final 
 
+## Parte 1: Identificar Algoritmos
+
+* Una página web.
+No es un algoritmo.
+Una página web es un conjunto de contenidos como texto, imágenes y enlaces. Puede contener algoritmos en su programación, pero en sí misma no es un conjunto de pasos ordenados para resolver un problema.
+
+* Una receta para hacer un pastel, donde se indican ingredientes y pasos a seguir.
+Sí es un algoritmo.
+Contiene pasos ordenados y definidos que permiten obtener un resultado específico.
+
+* "Piensa en un número y multiplícalo por otro".
+No es un algoritmo completo.
+Es una instrucción general, pero no especifica pasos detallados ni define claramente inicio y fin.
+
+* Un manual de instrucciones para armar un mueble, con pasos detallados y un orden claro.
+Sí es un algoritmo.
+Presenta una secuencia ordenada de pasos para lograr un objetivo determinado.
+
+* Una lista de compras organizada en orden alfabético.
+No es un algoritmo.
+Es solo una lista de elementos, no describe un procedimiento paso a paso para resolver un problema.
+
+### Parte 2: Variables y Constantes
+
+* El valor de la gravedad en la Tierra, 9.8 m/s².
+Constante.
+Es un valor fijo que no cambia.
+
+* La edad de una persona calculada con base en el año actual y su año de nacimiento.
+Variable.
+Cambia con el paso del tiempo.
+
+* La cantidad de dinero en una cuenta bancaria.
+Variable.
+Puede aumentar o disminuir.
+
+* La velocidad de la luz en el vacío, 299,792,458 m/s.
+Constante.
+Es un valor fijo en física.
+
+* El radio de un círculo.
+Variable.
+Puede tomar distintos valores según el círculo considerado.
+
+### Parte 3: Características de los Algoritmos
+
+* No cumple completamente.
+La expresión "cuando los cambios en la distancia parecen lo suficientemente pequeños" no es precisa. Un algoritmo debe ser claro y definido, sin ambigüedades.
+
+* No cumple completamente.
+Es demasiado general. No especifica claramente los pasos ni define con precisión el inicio y el final.
+
+* Sí cumple.
+Tiene un propósito claro y puede describirse mediante pasos definidos para calcular el área.
+
+* Sí cumple.
+Tiene un inicio claro, un proceso definido y una condición explícita de finalización cuando se ingresa el valor -1.
+
+### Parte 4: Comprensión de Herramientas
+
+* Falso.
+El pseudocódigo no utiliza símbolos gráficos estándar; eso corresponde a los diagramas de flujo.
+
+* Verdadero.
+Los diagramas de flujo representan gráficamente un algoritmo.
+
+* Falso.
+El pseudocódigo no debe estar escrito en un lenguaje de programación específico.
+
+* Verdadero.
+Un diagrama de flujo debe tener inicio y fin claramente definidos.
+
+### Parte 5: Estructuras de Control
+
+* Las estructuras de control sirven para dirigir el flujo de ejecución de un algoritmo. Permiten tomar decisiones, repetir acciones o ejecutar instrucciones en un orden determinado.
+
+* Ejemplo de la vida diaria:
+Si está lloviendo, llevo paraguas. Si no está lloviendo, no lo llevo.
+Aquí se utiliza una estructura condicional para tomar una decisión.
+
+* Ejemplo con cálculos matemáticos:
+Si el promedio de mis calificaciones es mayor o igual a 3, apruebo la materia. Si es menor a 3, repruebo.
+Se realiza un cálculo y, según el resultado, se toma una decisión.
