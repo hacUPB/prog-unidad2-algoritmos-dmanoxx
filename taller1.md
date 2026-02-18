@@ -132,12 +132,11 @@ Variables de Salida
     **Variable Inicio**
 
     * nivel_combustible
-    * tiempo
+    * tiempo 
 
     **Variable salida**
 
-    * tiempo 
-    * mensaje
+    * tiempo total
 
 
 
