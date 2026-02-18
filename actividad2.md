@@ -144,3 +144,5 @@ Fin mientras
 Escribir SU
 Fin 
 ```
+# Ejercicio 3
+
